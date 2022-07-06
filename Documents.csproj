@@ -8,4 +8,8 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Avalanche\Models\Models.csproj" />
+  </ItemGroup>
+
 </Project>
